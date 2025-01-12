@@ -1,0 +1,17 @@
+hi hashtag#linkdinfamily yesterday i faced an interview one of mnc LTIMindtree
+1. tell me something about yourself 
+2. what is the fucntion in aws lambda 
+3.tell me types of routing policies in route 53 
+4.what is the diffrence between terraform and cloudfront 
+5.why we use terraform import command 
+6. explain CNI works in kubernetes 
+7. can i know how many exp you have in monitoring and logging 
+8. lets have a scenario you are experincing high cpu utilization on your ec2 instances how would you use cloudwatch to troubleshoot this issue.
+9. how would you setup prometehous to monitor a custom application theat youve devloped 
+10. you need to create a grafana alert to notify you when the cpu utlization of a sepcific ec2 instance exceeds 90% how would you configure the alert 
+11. how do you approach troubleshooting a vpc-related issue ? Describe your systematic approach including gathering information analyzing logs and using troubleshooting tools.
+12. how do you troubleshoot subnet issues such as insufficient ip addreses or overlapping CIDR Block 
+13 your compny has multiple vpc for diffrent teams or environments how would you manage and optimize there vpc 
+14.what is rds in aws . your rds database is under heavy load stating to degrade in performance what your option to scale the database handle the increased load 
+15.you need to implement a complete ci/cd pipeline for an application hosted on aws using aws services what tool and services would you choose why 
+16. what is the recent problem you have to resolve with respect to eks 
